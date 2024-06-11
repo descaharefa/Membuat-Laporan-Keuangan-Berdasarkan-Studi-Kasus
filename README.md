@@ -9,7 +9,8 @@ Proyek ini dibuat sebagai bagian dari pelatihan di Skill Academy. Tujuannya adal
 
 
 ## Pendahuluan
-Proyek ini mencakup pembuatan laporan keuangan lengkap berdasarkan studi kasus sebuah perusahaan fiktif, termasuk Laporan Laba Rugi, Neraca, dan Laporan Arus Kas.
+Proyek ini mencakup pembuatan laporan keuangan lengkap berdasarkan studi kasus sebuah perusahaan fiktif, termasuk Neraca Saldo, Jurnal Penyesuaian, Neraca Saldo setelah Penyesuaian, Neraca Lajur, Jurnal Penutup, Buku Besar setelah Penutupan, dan Neraca Saldo setelah Penutupan
+
 
 
 ## Studi Kasus
@@ -30,7 +31,7 @@ Studi kasus ini didasarkan pada perusahaan fiktif "ABC Manufacturing." Data yang
 
 
 ## Dataset
-- Dataset yang digunakan dalam pelatihan ini berasal dari kursus live di Talenta.id
+- Dataset yang digunakan dalam pelatihan ini berasal dari kursus Skill Academy
 
 
 ## Kontribusi
