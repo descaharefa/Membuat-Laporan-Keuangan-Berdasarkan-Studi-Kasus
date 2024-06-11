@@ -28,3 +28,14 @@ Studi kasus ini didasarkan pada perusahaan fiktif "ABC Manufacturing." Data yang
 2. Buka file Financial_Statements.xlsx dengan Microsoft Excel.
 
 
+
+## Dataset
+- Dataset yang digunakan dalam pelatihan ini berasal dari kursus live di Talenta.id
+
+
+## Kontribusi
+
+Kontribusi terhadap pembelajaran ini sangat dihargai. Jika Anda menemukan kesalahan atau ingin menambahkan materi baru, silakan buka *Issue* atau kirimkan *Pull Request*.
+
+
+Copyright (c) 2024 Desca Winta Harefa
