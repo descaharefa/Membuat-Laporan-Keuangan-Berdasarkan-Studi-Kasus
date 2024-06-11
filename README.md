@@ -18,6 +18,7 @@ Studi kasus ini didasarkan pada perusahaan fiktif "ABC Manufacturing." Data yang
 ## Fitur
 - Pembuatan laporan keuangan lengkap berdasarkan data studi kasus
 - Penggunaan Microsoft Excel untuk perhitungan
+- Pembuatan Neraca Saldo, Jurnal Penyesuaian, Neraca Saldo setelah Penyesuaian, Neraca Lajur, Jurnal Penutup, Buku Besar setelah Penutupan, dan Neraca Saldo setelah Penutupan
 
 
 ## Instalasi
