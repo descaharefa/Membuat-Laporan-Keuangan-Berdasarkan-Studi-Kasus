@@ -1,4 +1,4 @@
-# Laporan Keuangan Berdasarkan Studi Kasus
+# Laporan Keuangan Berdasarkan Studi Kasus dengan Microsoft Excel
 Proyek pelatihan yang bertujuan untuk membuat laporan keuangan lengkap berdasarkan studi kasus perusahaan fiktif.
 
 Membuat Laporan Keuangan Berdasarkan Studi Kasus berfungsi juga untuk menunjukkan kemampuan dalam memahami dan mengerjakan tugas yang diberikan instruktur di Pelatihan Skill Academy
